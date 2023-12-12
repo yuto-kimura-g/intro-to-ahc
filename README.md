@@ -1,5 +1,7 @@
 # intro-to-ahc
 
+卒研が終わったら，`Rust`でやりたい
+
 ## judge
 - https://atcoder.jp/contests/intro-heuristics
 ## refs
